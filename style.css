@@ -1,0 +1,9 @@
+section .card-title{
+  font-size: 4em;
+}
+ section{
+  margin: 30px;
+ }
+ .navbar-brand {
+  margin-left: 150px;
+ }
